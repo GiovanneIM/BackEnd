@@ -1,0 +1,6 @@
+{
+    "nome_aplicacao": "Meu App",
+    "versao": "1.0.0",
+    "debug_mode": true,
+    "porta": 3000
+}

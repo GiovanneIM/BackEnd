@@ -1,0 +1,22 @@
+{
+    "produtos": [
+        {
+            "nome": "Refrigerante Coca-Cola",
+            "preco": 8.9,
+            "descricao": "Refrigerante sabor cola fabricado pela marca Coca-Cola",
+            "categoria": "Bebidas"
+        },
+        {
+            "nome": "Frango Assado",
+            "preco": 150.01,
+            "descricao": "Frango. Assado. Na lenha. De goiabeira.",
+            "categoria": "Carne"
+        },
+        {
+            "nome": "LEGO BatMan",
+            "preco": 300,
+            "descricao": "GOTY 2026",
+            "categoria": "JOGOS"
+        }
+    ]
+}

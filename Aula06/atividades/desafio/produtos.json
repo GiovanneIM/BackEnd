@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "112",
+        "Nome": "Cadeira Gamer",
+        "Preco": "1200",
+        "Estoque": "10"
+    },
+    {
+        "ID": "4",
+        "Nome": "Monitor Ultrawide",
+        "Preco": "2500",
+        "Estoque": "15"
+    },
+    {
+        "ID": "25",
+        "Nome": "Mouse Gamer",
+        "Preco": "180",
+        "Estoque": "75"
+    },
+    {
+        "ID": "8",
+        "Nome": "Teclado",
+        "Preco": "350",
+        "Estoque": "50"
+    }
+]
